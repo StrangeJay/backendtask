@@ -54,7 +54,7 @@ Now we can create our server, and make use of our request listener function.
 
 
 Now we have our server, let's see it in action and test it by running our server. 
-In the console we shoukd see this output
+In the console we should see this output
 
 ![Screenshot (162)](https://user-images.githubusercontent.com/105195327/204987723-cd22da0e-4248-487e-b3e0-713500d2ece0.png)
 
