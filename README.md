@@ -6,7 +6,8 @@ We'll be creating a server that returns the present time and date to the user, t
 ### **Step1:** 
 We start by making our directory and creating the file that will house the code
 
-![mkdir](https://user-images.githubusercontent.com/105195327/204980872-5ec60953-ce76-4334-9f44-c2d430c415c9.png) 
+![Screenshot (164)](https://user-images.githubusercontent.com/105195327/204991189-984ca51f-d180-4a95-90e9-11ec9d664b1e.png)
+
 
 ### **Step2:** 
 We load the http module that’s standard with all Node.js installations. 
